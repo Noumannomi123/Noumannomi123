@@ -2,22 +2,27 @@
 Welcome to my resume repository! Here, you'll find my latest resume in PDF format, showcasing my skills, experiences, and achievements. Feel free to explore and reach out if you have any questions or opportunities. Let's connect and collaborate! 🚀
 
 ## Major Courses
+- Web Development
 - Data Science
 - Machine Learning
-- Web Development
 
 ## Skills
-- Programming Languages: C, C++, Python, Java, Assembly Language
-- Data Science Libraries: Scikit Learn, Seaborn, Matplotlib, Natural Language Processing (NLTK)
-- Web Development Technologies: HTML, CSS, Bootstrap, JavaScript, Node.js, Express, MongoDB
+- Web Development: HTML, CSS, Bootstrap, Node.js, Express, ReactJS, MongoDB
+- Programming Languages: C, C++, Python, Java, Assembly Language, JavaScript
+- Machine Learning: Pandas, Scikit Learn, Seaborn, Matplotlib, Natural Language Processing (NLTK), TensorFlow, Keras
 
 ## Projects
 
-### Data Capstone Projects
-- Utilized Matplotlib, Seaborn, Plotly, Cufflinks, and Pandas for Python
-
-### Machine Learning Projects
-- Implemented models on real-world datasets including Linear Regression, Logistic Regression, KNN, Decision Trees, Random Forests, SVMs, K Means Clustering and MultinomialNB
+### Web Development Projects
+- Developed an E-Learning platform using the MERN stack
 
 ### App Development Projects
-- Developed a Gym Management System using the Swing Library for Java
+- Developed a Gym Management System using the Swing Library for Java and an SQL database
+
+### Data Capstone Projects
+- Performed analysis and visualization using Pandas, Matplotlib, Seaborn, Plotly, and Cufflinks for Python
+
+### Machine Learning Projects
+- Developed Facial Emotions Detection using ResNet50 for fine-tuning
+- Developed a Legal Document Summarizer by utilizing LLM to identify important key points and summarize the text
+- Developed Sentiment Analysis using NLP and classifiers
