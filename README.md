@@ -1,5 +1,5 @@
 ## <div align="center">Hey! I'm Nouman, and I'm delighted to share my professional background with you.</div>
-Welcome to my resume repository! Here, you'll find my latest resume in PDF format, showcasing my skills, experiences, and achievements. Feel free to explore and reach out if you have any questions or opportunities. Let's connect and collaborate! 🚀
+Welcome to my resume repository! Here, you'll find my latest resume, showcasing my skills, experiences, and achievements. Feel free to explore and reach out if you have any questions or opportunities. Let's connect and collaborate! 🚀
 
 ## Major Courses
 - Web Development
