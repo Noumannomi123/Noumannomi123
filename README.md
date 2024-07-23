@@ -127,3 +127,6 @@ Welcome to my Portforlio repository! Showcasing my skills, experiences, and achi
 
 ### App Development Projects
 - **[Gym Management System](https://github.com/Noumannomi123/GYM-management-System):** Created using the Swing library in Java for the user interface and MariaDB for the database management.
+
+### Web Development Projects
+= **[Anime Explorer](https://github.com/Noumannomi123/Anime-Explorer):** Created a web app using Node.js, Express.js and utilized Jikan open source api to fetch data.
