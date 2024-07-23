@@ -117,7 +117,13 @@ Welcome to my Portforlio repository! Showcasing my skills, experiences, and achi
 
 # Projects
 
-### Machine Learning Projects
-- Developed Facial Emotions Detection using ResNet50 for fine-tuning
-- Developed a Legal Document Summarizer by utilizing LLM to identify important key points and summarize the text
-- Developed Sentiment Analysis using NLP and classifiers
+### Machine Learning / Data Science Projects
+- **[Sentiment Analysis](https://github.com/Noumannomi123/Sentiment-Analysis):** An NLP-based project. Preprocessed the data by removing stop-words, stemming, and more. Tested on various models such as SVC, KNN, RFC, and MultinomialNB. Achieved an accuracy of around 86%.
+- **[Legal Document Summarizer](https://github.com/Noumannomi123/Legal-Document-Summarizer):** Developed a model to summarize textual legal case documents with key figures, dates, and points. Utilized the Llama3 model after cleaning and preprocessing the data.
+- **[Facial Emotions Detection](https://github.com/Noumannomi123/Facial-Emotions-Detection):** Using grayscale face images, trained a model to identify five emotions with 65% accuracy. Used ResNet50 as pre-trained, fine-tuning with the new dataset.
+
+### Data Capstone Projects
+- **[Data Analysis and Visualization](https://github.com/Noumannomi123/Machine-Learning-Data-Analysis-Portfolio):** Conducted comprehensive data analysis and created detailed visualizations using Pandas for data manipulation, and Matplotlib, Seaborn, Plotly, and Cufflinks for graphical representation in Python.
+
+### App Development Projects
+- **[Gym Management System](https://github.com/Noumannomi123/GYM-management-System):** Created using the Swing library in Java for the user interface and MariaDB for the database management.
