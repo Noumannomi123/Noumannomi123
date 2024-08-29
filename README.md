@@ -3,7 +3,7 @@ Welcome to my Portforlio repository! Showcasing my skills, experiences, and achi
 
 <div align="center">
     <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com/?user=noumannomi123" alt="GitHub Streak">
+        <img src="https://streak-stats.demolab.com/?user=noumannomi123&theme=dark"" alt="GitHub Streak">
     </a>
 </div>
 
