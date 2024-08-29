@@ -1,6 +1,13 @@
 ## <div align="center">Hey! I'm Nouman, and I'm delighted to share my professional background with you.</div>
 Welcome to my Portforlio repository! Showcasing my skills, experiences, and achievements. Feel free to explore and reach out if you have any questions or opportunities. Let's connect and collaborate! 🚀
 
+<div align="center">
+    <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com/?user=noumannomi123" alt="GitHub Streak">
+    </a>
+</div>
+
+
 # Tech Stack
 
 <div align="center">
