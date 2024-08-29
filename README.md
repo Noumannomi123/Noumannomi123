@@ -2,9 +2,7 @@
 Welcome to my Portforlio repository! Showcasing my skills, experiences, and achievements. Feel free to explore and reach out if you have any questions or opportunities. Let's connect and collaborate! 🚀
 
 <div align="center">
-    <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com/?user=noumannomi123&theme=dark"" alt="GitHub Streak">
-    </a>
+   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=noumannomi123&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 </div>
 
 
